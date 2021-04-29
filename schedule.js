@@ -1,14 +1,14 @@
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBXPOGVP4z12TYHipn0-C8r55oGqAw523c",
-  authDomain: "staff-support-b1ce3.firebaseapp.com",
-  databaseURL: "https://staff-support-b1ce3.firebaseio.com",
-  projectId: "staff-support-b1ce3",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
   storageBucket: "staff-support-b1ce3.appspot.com",
-  messagingSenderId: "1036048138694",
-  appId: "1:1036048138694:web:654881679863092c8bb2c7",
-  measurementId: "G-FF50GX1DM2"
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
